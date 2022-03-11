@@ -1,0 +1,15 @@
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\bin\Debug\net6.0\RSInvoiceLibrary.deps.json
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\bin\Debug\net6.0\RSInvoiceLibrary.dll
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\bin\Debug\net6.0\ref\RSInvoiceLibrary.dll
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\bin\Debug\net6.0\RSInvoiceLibrary.pdb
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.csproj.AssemblyReference.cache
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.AssemblyInfoInputs.cache
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.AssemblyInfo.cs
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.dll
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\ref\RSInvoiceLibrary.dll
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.pdb
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\bin\Debug\net6.0\RSInvoiceLibrary.Models.dll
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\bin\Debug\net6.0\RSInvoiceLibrary.Models.pdb
+C:\Users\dlepsaia\source\repos\RSInvoiceLibrary\RSInvoiceLibrary\obj\Debug\net6.0\RSInvoiceLibrary.csproj.CopyComplete
